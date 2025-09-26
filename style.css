@@ -69,3 +69,9 @@ h1 {
     user-select: none;
   }
 }
+@media screen and (max-width: 500px) {
+    .card {
+        flex: 1 0 90%;
+    }
+}
+    
